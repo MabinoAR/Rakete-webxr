@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 496f0a91a63b0bb4794b8654e460c84d, type: 3}
+  m_Name: PlayerCustomization
+  m_EditorClassIdentifier: 
+  Colors:
+  - {r: 1, g: 0.7650531, b: 0, a: 0}
+  - {r: 0.8784314, g: 0, b: 0, a: 0}
+  - {r: 0.8679245, g: 0.31100094, b: 0, a: 0}
+  - {r: 0, g: 0.16558154, b: 0.8301887, a: 0}
+  - {r: 0, g: 0.85480577, b: 0.9245283, a: 0}
+  - {r: 0.22028369, g: 0.5849056, b: 0.1790704, a: 0}
+  - {r: 1, g: 1, b: 1, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0.6037736, g: 0.20193481, b: 0.5754086, a: 0}
+  - {r: 0.33962262, g: 0.046304602, b: 0.33689147, a: 0}
+  Bodies:
+  - {fileID: 285295386894215561, guid: 33e8595c442ce7549906a995731073b0, type: 3}
+  - {fileID: 1052691721858268657, guid: 635645e3818145141a75ce479c04805c, type: 3}
+  - {fileID: 3019414265054456941, guid: 22bf94e42bc51f34cb78e8f7e9083a9c, type: 3}
+  Heads:
+  - {fileID: 4206350617188464864, guid: 4d654ffb219a69949b01e8b4b43bcc75, type: 3}
+  - {fileID: 7928637060922401765, guid: 6b553132a8a44de47a4719b8d8c0f343, type: 3}
+  Hands_Right:
+  - {fileID: 6721085592385340906, guid: 4ccdaa465648225498b94e5786e81329, type: 3}
+  Hands_Left:
+  - {fileID: 1479668247940021787, guid: 0a24fdf9ec137c446af37d3a61aea017, type: 3}
